@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section has useful spreadsheets in Excel format.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
